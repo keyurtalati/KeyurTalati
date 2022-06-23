@@ -44,12 +44,12 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 ### Top Projects
 
-![Ransomware => Private Repo](#)
-![Solidity Source Code Scanner => Private Repo](#)
-![AntiRansomware => Private Repo](#)
-![Dark Web Recon => Private Repo](#)
-![Mass-ASN-Lookup]([https://github-readme-stats.vercel.app/api/top-langs/?username=keyurtalati&theme=great-gatsby&layout=compact](https://github.com/keyurtalati/Mass-ASN-lookup)
-![Bot-Net](https://github.com/keyurtalati/Botnet-Sample)
+ - Ransomware => Private Repo
+ - Solidity Source Code Scanner => Private Repo
+ - AntiRansomware => Private Repo
+ - Dark Web Recon => Private Repo
+ - ![Mass-ASN-Lookup](https://github.com/keyurtalati/Mass-ASN-lookup)
+ - ![Bot-Net](https://github.com/keyurtalati/Botnet-Sample)
 
 ### Services 
  - Pentesting (Web, Network, Mobile, Thick Client, Cloud)

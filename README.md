@@ -1,4 +1,4 @@
-# Hi, I'm Keyur Talati 🛡️ <img src="./cyber-attack-.gif" width="2000px" height="200px">
+# Hi, I'm Keyur Talati 🛡️ <img src="./cyber-attack-.gif" width="2000px" height="250px" align="right">
 
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]

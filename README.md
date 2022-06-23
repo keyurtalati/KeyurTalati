@@ -1,4 +1,4 @@
-# Hi, I'm Keyur Talati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Keyur Talati 🛡️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
@@ -31,7 +31,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 📝      I'm a writer for [Strobes Security](https://www.strobes.co/resources/blog) and [WeSecureApp](https://wesecureapp.com/)
 
-- [Browser-In-The-Browser Attacj](https://wesecureapp.com/blog/browser-in-the-browser-bitb-a-new-born-phishing-methodology/)
+- [Browser-In-The-Browser Attack](https://wesecureapp.com/blog/browser-in-the-browser-bitb-a-new-born-phishing-methodology/)
 - [Devil for modern Security](https://wesecureapp.com/blog/devil-for-modern-security-ransomware/)
 - [How a Simple entry point can lead to Server Compromise](https://wesecureapp.com/blog/a-simple-entry-point-can-lead-to-access-to-your-server/)
 - [Ransomware Malware](https://keyurtalati00.blogspot.com/2020/07/ransomeware-malware.html)
